@@ -2,7 +2,7 @@
 
 Gurleen Buttar 2328033 gbuttar@chapman.edu CPSC_350-03 Assignment 6
 
-Source Files: Main.cpp Sort.cpp Sort.h
+Source Files: Main.cpp Sort.cpp Sort.h random.txt
 
 No known errors
 
